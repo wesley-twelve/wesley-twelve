@@ -9,6 +9,6 @@
   <img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 <div style="display: inline-block;"><br>
-  <a href = "mailto:santoryuzx@gmail.com?subject=Hey%2C%20Wesley%21"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:santoryuzx@gmail.com?subject=Hey%2C%20Wesley%21" target="_blank"><img src="https://img.shields.io/badge/Email-santoryuzx@gmail.com-blue?style=for-the-badge&logo=gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-dsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
