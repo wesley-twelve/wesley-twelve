@@ -1,4 +1,4 @@
-## Hey, I'm Wesley!1
+## Hey, I'm Wesley!
 I'm a front-end developer!
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley-twelve&show_icons=true&theme=radical">
